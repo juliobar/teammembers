@@ -1,11 +1,7 @@
 {"members":
     [
-        {"id": "01", "name":"Silvano Gilabert", "picUrl": "http://skypepictures/images/SA/M/SGGILAB.jpg", "email":"silvano.g.gilabert@exxonmobil.com", "role":"Corporate Reporting Supervisor", "phone":"+541139852540", "mySyte":"https://mysite.na.xom.com/Person.aspx?accountname=SA%5CSGGILAB", "location":"BA"},
-        {"id": "02", "name":"Christian Maczka", "picUrl": "http://skypepictures/images/SA/M/cmaczka.jpg", "email":"christian.maczka@exxonmobil.com", "role":"Corporate Reporting Product Owner", "phone":"+541135719445", "mySyte":"https://mysite.na.xom.com/Person.aspx?accountname=SA%5Ccmaczka", "location":"BA"},
-        {"id": "03", "name":"Martín R. Lorenzo", "picUrl": "http://skypepictures/images/UPSTREAMACCTS/M/micatr1.jpg", "email":"martin.lorenzo@exxonmobil.com", "role":"Corporate Reporting Scrum Master", "phone":"+541139851081", "mySyte":"https://mysite.na.xom.com/Person.aspx?accountname=UPSTREAMACCTS%5Cmicatr1", "location":"BA"},
-        {"id": "04", "name":"Fernando Schiarit", "picUrl": "http://skypepictures/images/UPSTREAMACCTS/M/fmschia.jpg", "email":"fernando.m.schiariti@exxonmobil.com", "role":"Corporate Reporting Analyst", "phone":"+541139852978", "mySyte":"https://mysite.na.xom.com/Person.aspx?accountname=UPSTREAMACCTS%5Cfmschia", "location":"BA"},
-        {"id": "05", "name":"Ernesto Muñoz", "picUrl": "http://skypepictures/images/UPSTREAMACCTS/M/eamunoz.jpg", "email":"ernesto.a.munoz@exxonmobil.com", "role":"Corporate Reporting Analyst", "phone":"+541139852411", "mySyte":"https://mysite.na.xom.com/Person.aspx?accountname=UPSTREAMACCTS%5Ceamunoz", "location":"BA"},
-        {"id": "06", "name":"Julio Barbagallo", "picUrl": "http://skypepictures/images/SA/M/jcbarba.jpg", "email":"julio.c.barbagallo@exxonmobil.com", "role":"Corporate Reporting Analyst", "phone":"+5491133589261", "mySyte":"https://mysite.na.xom.com/Person.aspx?accountname=SA%5Cjcbarba", "location":"BA"}
+        {"id": "01", "name":"foo bar", "picUrl": "http://skypepictures/SGGILAB.jpg", "email":"foo@bar.com", "role":"super", "phone":"+154353454", "mySyte":"https://mysite.xom.com/", "location":"BA"},
+        
     ]
 
 }
