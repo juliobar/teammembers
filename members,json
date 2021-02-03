@@ -1,7 +1,3 @@
 {"members":
-    [
         {"id": "01", "name":"foo bar", "picUrl": "http://skypepictures/SGGILAB.jpg", "email":"foo@bar.com", "role":"super", "phone":"+154353454", "mySyte":"https://mysite.xom.com/", "location":"BA"},
-        
-    ]
-
 }
